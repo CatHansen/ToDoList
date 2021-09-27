@@ -1,0 +1,25 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "simple vanilla js project",
+  "default": "src/index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "to",
+    "do",
+    "list"
+  ],
+  "author": "Catherine Hansen",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2",
+    "parcel": "^2.0.0-rc.0",
+    "sass": "^1.42.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  }
+}
